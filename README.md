@@ -1,4 +1,4 @@
-## Hi there 👋
+## PMG's repository
 
 <!--
 **PMG0304/PMG0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
